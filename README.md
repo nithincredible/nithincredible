@@ -1,5 +1,3 @@
-# nithncredible-readme.md
-
 # Hey there! 👋 I'm Nithin S
 
 ### 💻 Computer Science Engineering Student | Aspiring AI Engineer | Developer
